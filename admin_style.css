@@ -1,0 +1,10 @@
+#header, .module h2, .button.default, .btn-primary {
+    background-color: #3e2a1c !important; /* Цвет темного дерева */
+    border-bottom: 2px solid #b8860b !important;
+}
+#branding h1, h1, h2, h3, a:link, a:visited {
+    color: #b8860b !important; /* Настоящее золото */
+}
+.breadcrumbs {
+    background-color: #5c4033 !important;
+}
